@@ -6,7 +6,7 @@ import { useLocation } from 'react-router-dom';
 
 import { Outlet } from 'react-router-dom';
 
-import { NavLink } from 'react-router-dom';
+// import { NavLink } from 'react-router-dom';
 
 import NoPosterPhoto from '../../images/no-photo-poster.png';
 
